@@ -1,0 +1,8 @@
+{
+  "name": "clean-ts-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabi Hoffmann <hoffmann.agf@gmail.com>",
+  "license": "MIT",
+  "description": "Clean Architecture API"
+}
